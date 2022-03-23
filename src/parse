@@ -1,0 +1,697 @@
+{
+    "bikes": [
+        {
+            "date_stolen": 1647930089,
+            "description": "",
+            "frame_colors": [
+                "Black",
+                "Red",
+                "White"
+            ],
+            "frame_model": "Top Fuel 9.9 SSL",
+            "id": 1177932,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "31t80014683",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": null,
+            "stolen_location": "CA",
+            "thumb": null,
+            "title": "Trek Top Fuel 9.9 SSL",
+            "url": "https://bikeindex.org/bikes/1177932",
+            "year": null
+        },
+        {
+            "date_stolen": 1647891850,
+            "description": "FX Alpha Hydroformed Aluminum",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "7.6 FX",
+            "id": 1252034,
+            "is_stock_img": true,
+            "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/2104/76fx_candyred.jpg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WTU259G0039A",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                41.9,
+                -87.68
+            ],
+            "stolen_location": "Chicago, IL 60622, US",
+            "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/2104/small_76fx_candyred.jpg",
+            "title": "2007 Trek 7.6 FX",
+            "url": "https://bikeindex.org/bikes/1252034",
+            "year": 2007
+        },
+        {
+            "date_stolen": 1647835200,
+            "description": "Specialized E5, fully manipulated SLX tubing, compact race geometry",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Allez Elite Triple",
+            "id": 1251682,
+            "is_stock_img": true,
+            "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/5550/06AllezElite27_Blk_l.jpg",
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                47.64,
+                -122.37
+            ],
+            "stolen_location": "Seattle, WA 98119, US",
+            "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/5550/small_06AllezElite27_Blk_l.jpg",
+            "title": "2006 Specialized Allez Elite Triple",
+            "url": "https://bikeindex.org/bikes/1251682",
+            "year": 2006
+        },
+        {
+            "date_stolen": 1647813600,
+            "description": null,
+            "frame_colors": [
+                "Black",
+                "Red",
+                "Silver, gray or bare metal"
+            ],
+            "frame_model": "Hardrock",
+            "id": 1251573,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "wsbc618041580m",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                43.07,
+                -89.42
+            ],
+            "stolen_location": "Madison, WI 53726, US",
+            "thumb": null,
+            "title": "2016 Specialized Hardrock",
+            "url": "https://bikeindex.org/bikes/1251573",
+            "year": 2016
+        },
+        {
+            "date_stolen": 1647832972,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "r350",
+            "id": 1251712,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Scattante",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "spe026ic0202j",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                47.23,
+                -122.45
+            ],
+            "stolen_location": "Tacoma, WA 98418, US",
+            "thumb": null,
+            "title": "2013 Scattante r350",
+            "url": "https://bikeindex.org/bikes/1251712",
+            "year": 2013
+        },
+        {
+            "date_stolen": 1647903554,
+            "description": "Alpha Black Aluminum w/TCT Carbon stays",
+            "frame_colors": [
+                "Red",
+                "Black"
+            ],
+            "frame_model": "2.3",
+            "id": 1252154,
+            "is_stock_img": true,
+            "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/1508/23_redblack.jpg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WTU158G0346D",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                39.74,
+                -105.03
+            ],
+            "stolen_location": "Denver, CO 80204, US",
+            "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/1508/small_23_redblack.jpg",
+            "title": "2009 Trek 2.3",
+            "url": "https://bikeindex.org/bikes/1252154",
+            "year": 2009
+        },
+        {
+            "date_stolen": 1647702950,
+            "description": "Specialized FACT 9r N'Aero tube shaping, triple monocoque construction, compact aero geometry, vertical seat adjustment, OS BB",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "S-Works Transition",
+            "id": 1250518,
+            "is_stock_img": true,
+            "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/5387/9794-00_TRAN_Sworks_l.jpg",
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                39.78,
+                -86.17
+            ],
+            "stolen_location": "Indianapolis, IN 46202, US",
+            "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/5387/small_9794-00_TRAN_Sworks_l.jpg",
+            "title": "2009 Specialized S-Works Transition",
+            "url": "https://bikeindex.org/bikes/1250518",
+            "year": 2009
+        },
+        {
+            "date_stolen": 1647702718,
+            "description": "Specialized FACT 7r N'Aero tube shaping, triple monocoque construction, compact aero geometry, vertical seat adjustment, OS BB",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Transition Pro",
+            "id": 1250515,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/547315/large_273FB10D-7E88-4EAA-B65D-09EA3AB96411.jpeg",
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                39.78,
+                -86.17
+            ],
+            "stolen_location": "Indianapolis, IN 46202, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/547315/small_273FB10D-7E88-4EAA-B65D-09EA3AB96411.jpeg",
+            "title": "2009 Specialized Transition Pro",
+            "url": "https://bikeindex.org/bikes/1250515",
+            "year": 2009
+        },
+        {
+            "date_stolen": 1647666000,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "ATX 3",
+            "id": 1251546,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Giant",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "K1FK13062",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                43.59,
+                -116.19
+            ],
+            "stolen_location": "Boise, ID 83706, US",
+            "thumb": null,
+            "title": "2020 Giant ATX 3",
+            "url": "https://bikeindex.org/bikes/1251546",
+            "year": 2020
+        },
+        {
+            "date_stolen": 1647671947,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Wooky SL Carbon 29er Mountain Bike Item #31-1254-CAR-S",
+            "id": 1250369,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Devinci",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                36.14,
+                -86.8
+            ],
+            "stolen_location": "Nashville, TN 37212, US",
+            "thumb": null,
+            "title": "2013 Devinci Wooky SL Carbon 29er Mountain Bike It...",
+            "url": "https://bikeindex.org/bikes/1250369",
+            "year": 2013
+        },
+        {
+            "date_stolen": null,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": null,
+            "id": 1250097,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": "Seattle, WA, US",
+            "manufacturer_name": "Cannondale",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Hidden",
+            "status": "found",
+            "stolen": false,
+            "stolen_coordinates": null,
+            "stolen_location": null,
+            "thumb": null,
+            "title": "2011 Cannondale",
+            "url": "https://bikeindex.org/bikes/1250097",
+            "year": 2011
+        },
+        {
+            "date_stolen": 1647594000,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Kink",
+            "id": 1249818,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Kink",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "918104",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                53.59,
+                -113.48
+            ],
+            "stolen_location": "Edmonton, T5E0P2, CA",
+            "thumb": null,
+            "title": "2021 Kink Kink",
+            "url": "https://bikeindex.org/bikes/1249818",
+            "year": 2021
+        },
+        {
+            "date_stolen": 1647580500,
+            "description": "2022 Trek Verve 2 Disc Lowstep, red frame, size L. \r\n\r\nAt time of theft, had a \"I love my bike\" bell and a U-lock locked into the handlebars, rear derailleur was replaced hours before. Otherwise fully stock.",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Verve",
+            "id": 1250241,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/547239/large_trek_2022_verve_2_disc_lowstep_PXL_20210411_004741694.jpg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                30.31,
+                -97.73
+            ],
+            "stolen_location": "Austin, TX 78751, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/547239/small_trek_2022_verve_2_disc_lowstep_PXL_20210411_004741694.jpg",
+            "title": "2022 Trek Verve",
+            "url": "https://bikeindex.org/bikes/1250241",
+            "year": 2022
+        },
+        {
+            "date_stolen": 1647550198,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Mountain",
+            "id": 1159616,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Nishiki",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "R906529396",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": null,
+            "stolen_location": "US",
+            "thumb": null,
+            "title": "Nishiki Mountain",
+            "url": "https://bikeindex.org/bikes/1159616",
+            "year": null
+        },
+        {
+            "date_stolen": 1647538064,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Meridian",
+            "id": 1249250,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Schwinn",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "snmn12j03602",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                33.39,
+                -111.56
+            ],
+            "stolen_location": "Apache Junction, AZ 85120, US",
+            "thumb": null,
+            "title": "Schwinn Meridian tricycle",
+            "url": "https://bikeindex.org/bikes/1249250",
+            "year": null
+        },
+        {
+            "date_stolen": 1647532811,
+            "description": null,
+            "frame_colors": [
+                "Red",
+                "Black"
+            ],
+            "frame_model": "Domane SL6  ",
+            "id": 1249207,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/546764/large_domane.jpg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WTU222CT3080S",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                39.95,
+                -75.17
+            ],
+            "stolen_location": "Philadelphia, PA 19103, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/546764/small_domane.jpg",
+            "title": "2022 Trek Domane SL6",
+            "url": "https://bikeindex.org/bikes/1249207",
+            "year": 2022
+        },
+        {
+            "date_stolen": 1647532442,
+            "description": "",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Precaliber 24 ",
+            "id": 1249205,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/546762/large_pre.jpg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WTU300XC6179R",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                39.95,
+                -75.17
+            ],
+            "stolen_location": "Philadelphia, PA 19103, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/546762/small_pre.jpg",
+            "title": "2022 Trek Precaliber 24",
+            "url": "https://bikeindex.org/bikes/1249205",
+            "year": 2022
+        },
+        {
+            "date_stolen": 1647527331,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "XR800",
+            "id": 1249178,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Cannondale",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "2758 X3E56",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                38.6,
+                -121.49
+            ],
+            "stolen_location": "Sacramento, CA 95811, US",
+            "thumb": null,
+            "title": "1998 Cannondale XR800",
+            "url": "https://bikeindex.org/bikes/1249178",
+            "year": 1998
+        },
+        {
+            "date_stolen": 1647557929,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "TALON 3",
+            "id": 1249441,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Giant",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "C1DC1141",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                53.55,
+                -113.52
+            ],
+            "stolen_location": "Edmonton, T5H 0A8, CA",
+            "thumb": null,
+            "title": "2018 Giant TALON 3",
+            "url": "https://bikeindex.org/bikes/1249441",
+            "year": 2018
+        },
+        {
+            "date_stolen": 1647482400,
+            "description": "Specialized A1 Premium Aluminum frame, with rock shock tora front suspension, and juicy hydrolic brakes, deore lx shifters and 29\" specialized alex rims with 29\" schwalbe rapid rob rubber",
+            "frame_colors": [
+                "Black",
+                "Red"
+            ],
+            "frame_model": "Crosstrail Pro",
+            "id": 1117439,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/546651/large_20210808_002604.jpg",
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "70666891",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                43.13,
+                -80.26
+            ],
+            "stolen_location": "Brantford, N3S2A6, CA",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/546651/small_20210808_002604.jpg",
+            "title": "2008 Specialized Crosstrail Pro",
+            "url": "https://bikeindex.org/bikes/1117439",
+            "year": 2008
+        },
+        {
+            "date_stolen": 1647462313,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Precaliber 8-speed",
+            "id": 1248650,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/546558/large_79E0F336-9786-456B-A2B5-0124E5E7F931.jpeg",
+            "location_found": null,
+            "manufacturer_name": "Trek",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WTU015C3680P",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                29.62,
+                -98.43
+            ],
+            "stolen_location": "San Antonio, TX 78259, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/546558/small_79E0F336-9786-456B-A2B5-0124E5E7F931.jpeg",
+            "title": "2019 Trek Precaliber 8-speed",
+            "url": "https://bikeindex.org/bikes/1248650",
+            "year": 2019
+        },
+        {
+            "date_stolen": 1647458849,
+            "description": "Red Specialized bike with green glitter sticker on front. Black milk crate on back..",
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Crossroads",
+            "id": 1248617,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Specialized",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "WSBC92046043P",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": null,
+            "stolen_location": "US",
+            "thumb": null,
+            "title": "2019 Specialized Crossroads",
+            "url": "https://bikeindex.org/bikes/1248617",
+            "year": 2019
+        },
+        {
+            "date_stolen": 1647423909,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Spinfit700c",
+            "id": 1248440,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Hyper",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "TK18D14205",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": null,
+            "stolen_location": "US",
+            "thumb": null,
+            "title": "2019 Hyper Spinfit700c",
+            "url": "https://bikeindex.org/bikes/1248440",
+            "year": 2019
+        },
+        {
+            "date_stolen": 1647404485,
+            "description": null,
+            "frame_colors": [
+                "Red"
+            ],
+            "frame_model": "Conquest 24",
+            "id": 1248358,
+            "is_stock_img": false,
+            "large_img": null,
+            "location_found": null,
+            "manufacturer_name": "Redline",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "Unknown",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                47.67,
+                -122.12
+            ],
+            "stolen_location": "Redmond, WA 98052, US",
+            "thumb": null,
+            "title": "2015 Redline Conquest 24",
+            "url": "https://bikeindex.org/bikes/1248358",
+            "year": 2015
+        },
+        {
+            "date_stolen": 1647396000,
+            "description": null,
+            "frame_colors": [
+                "Black",
+                "Red"
+            ],
+            "frame_model": "via Nirone 7 Sora w/ Black Sora Derailleur",
+            "id": 1248377,
+            "is_stock_img": false,
+            "large_img": "https://files.bikeindex.org/uploads/Pu/546362/large_IMG_7990.jpeg",
+            "location_found": null,
+            "manufacturer_name": "Bianchi",
+            "external_id": null,
+            "registry_name": null,
+            "registry_url": null,
+            "serial": "BIRCH550",
+            "status": "stolen",
+            "stolen": true,
+            "stolen_coordinates": [
+                34.02,
+                -118.39
+            ],
+            "stolen_location": "Culver City, CA 90232, US",
+            "thumb": "https://files.bikeindex.org/uploads/Pu/546362/small_IMG_7990.jpeg",
+            "title": "2010 Bianchi via Nirone 7 Sora w/ Black Sora Derai...",
+            "url": "https://bikeindex.org/bikes/1248377",
+            "year": 2010
+        }
+    ]
+}
