@@ -7,6 +7,8 @@ import BikeService from './services/bike-service.js';
 function clearFields() {
   $('#searchKey').val("");
   $('.showImages').text("");
+  $('.showResults').text("");
+  $('.showErrors').text("");
 }
 
 
@@ -23,8 +25,9 @@ function getElements(response) {
 $(document).ready(function() {
   $('#enterSearch').click(function() {
     const keyword = $('#searchKey').val();
+    const color = $("input:radio[name=color]:checked").val();
     clearFields();
-    BikeService.getBike(keyword)
+    BikeService.getBike(keyword, color)
     .then(function(response) {
       getElements(response);
     });
